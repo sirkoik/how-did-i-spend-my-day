@@ -1,0 +1,14 @@
+.AddForm {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.AddForm label {
+    display: block;
+    clear: right;
+}
+
+.AddForm textarea {
+    width: 100%;
+    height: 200px;
+}
